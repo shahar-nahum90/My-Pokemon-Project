@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657187179810",
+    "project_id": "my-app-pokimon",
+    "storage_bucket": "my-app-pokimon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657187179810:android:a84eaaf8c082ebcbf3697b",
+        "android_client_info": {
+          "package_name": "com.example.myapppokimon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657187179810-ll9c3v4bd4m1p7fom4m5vqbfbvmi40o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJXLf7absMc1GmZJv0G5shcGBnb8Krq6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657187179810-ll9c3v4bd4m1p7fom4m5vqbfbvmi40o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
